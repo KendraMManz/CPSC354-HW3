@@ -69,13 +69,11 @@ This assignment I discussed with ChatGPT about the implementation of **adaptive 
 ---
 
 ## **References and Further Reading**
-1. **[A Survey on Dynamic Difficulty Adjustment in Video Games](https://ieeexplore.ieee.org/)** - IEEE Xplore
-2. **[Player Modeling: Towards Effective Personalization in Games](https://link.springer.com/)** - SpringerLink
-3. **[Artificial Intelligence and Games](https://www.springer.com/)** by Georgios Yannakakis & Julian Togelius - SpringerLink
-4. **[Game AI Pro 360: Guide to Architecture and Design](https://www.crcpress.com/)** edited by Steve Rabin - CRC Press
-5. **[Dynamic Difficulty Adjustment in Games: Techniques and Challenges](https://www.gamedeveloper.com/)** - Game Developer
-6. **[The Role of Python in Adaptive AI](https://gameaipro.com/)** - Game AI Pro
-7. **[Reinforcement Learning for Adaptive AI in Games](https://developer.nvidia.com/blog)** - NVIDIA Developer Blog
+1. **[Dynamic Difficulty Adjustment (DDA) in Computer Games: A Review](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/5681652)** - Wiley Online Library
+2. **[Player Modeling and Adaptation Methods Within Adaptive Serious Games](https://ieeexplore.ieee.org/abstract/document/9895205)** - IEEE Xplore
+3. **[Artificial Intelligence and Games](https://link.springer.com/book/10.1007/978-3-319-63519-4)** by Georgios Yannakakis & Julian Togelius - SpringerLink
+4. **[Dynamic Difficulty Adjustment through an Adaptive AI](https://ieeexplore.ieee.org/abstract/document/7785854)**  - IEEE Xplore
+5. **[Games That Adapt: Reinforcement Learning for Adaptive Game AI](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003535423-43/games-adapt-reinforcement-learning-adaptive-game-ai-ankit-kumar-kushagra-srivastava-ajay-pal-singh)** - Taylor & Francis Group
 
 ---
 
